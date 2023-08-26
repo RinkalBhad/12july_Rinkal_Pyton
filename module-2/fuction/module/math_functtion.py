@@ -1,0 +1,12 @@
+import math
+print(math.pi)
+print(math.e)
+print(math.ceil(45.89))
+print(math.floor(45.89))
+x=math.factorial(7)
+print(x)
+print(math.pow(3,3))
+print(math.sqrt(25))
+print(math.sin(90))
+print(math.cos(0))
+print(math.log10(10))   
