@@ -1,0 +1,13 @@
+fruit{'fruit name ': 'apple', 'qty (in kg) ': '2', 'price ': '200'}
+fruit{'fruit name ': 'banana', 'qty (in kg) ': '2', 'price ': '1200'}
+fruit{'fruit name ': 'graps', 'qty (in kg) ': '3', 'price ': '300'}
+fruit{'fruit name ': 'kjhfj', 'qty (in kg) ': '2', 'price ': '499'}
+fruit{'fruit name ': 'jkfjkkhdjh', 'qty (in kg) ': '3', 'price ': '400'}
+fruit{'fruit name ': 'ffjhjdh', 'qty (in kg) ': '3', 'price ': '400'}
+fruit{'fruit name ': 'jhfhd', 'qty (in kg) ': 'djfhj', 'price ': 'djfh'}
+fruit{'fruit name ': '', 'qty (in kg) ': 'jfhjh', 'price ': 'fjdh'}
+22ifruit{'fruit name ': 'hjfk', 'qty (in kg) ': '2', 'price ': '200'}
+
+
+fruit{'fruit name ': 'jhjdf', 'qty (in kg) ': '2', 'price ': '400'}
+fruit{'fruit name ': 'fhfj', 'qty (in kg) ': '4', 'price ': '55'}

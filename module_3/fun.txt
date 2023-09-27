@@ -1,0 +1,17 @@
+id:101
+name:rinkla
+city:rajkot
+.......
+id:2
+name:bhad
+city:surat
+.......
+id:1
+name:rinkal
+city:rajkot
+.......
+id:2
+name:bhad
+city:suat
+.......
+39c=30
